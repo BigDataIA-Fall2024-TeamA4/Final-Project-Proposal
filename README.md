@@ -15,10 +15,9 @@ WE ATTEST THAT WE HAVEN'T USED ANY OTHER STUDENTS' WORK IN OUR ASSIGNMENT AND AB
 | Vaishnavi Veerkumar | 33.33%          |
 | Sriram Venkatesh    | 33.33%          |
 
+## Architecture
 
-## Documentation
 
-[![Codelabs](https://img.shields.io/badge/Codelabs-blue?style=for-the-badge)](https://codelabs-preview.appspot.com/?file_id=1U6saEDp86R-1dxdUcGf5aLIEdRWdaiPcR5GXznLzBqA/edit?tab=t.0#5)
 
 ## Key Technologies
 
@@ -35,9 +34,13 @@ WE ATTEST THAT WE HAVEN'T USED ANY OTHER STUDENTS' WORK IN OUR ASSIGNMENT AND AB
 | Docker       | Containers application and its dependencies for consistent deployment| Enables portability and scalability    |
 
 
+## Documentation
+
+[![Codelabs](https://img.shields.io/badge/Codelabs-blue?style=for-the-badge)](https://codelabs-preview.appspot.com/?file_id=1U6saEDp86R-1dxdUcGf5aLIEdRWdaiPcR5GXznLzBqA/edit?tab=t.0#5)
+
 ## Task Distribution
 
-[![GitHub Project](https://img.shields.io/badge/GitHub-Project-brightgreen)](https://github.com/YourUsername/YourRepository)
+[![GitHub Project](https://img.shields.io/badge/GitHub-Project-brightgreen)](https://github.com/orgs/BigDataIA-Fall2024-TeamA4/projects/8)
 
 
 
