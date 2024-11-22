@@ -17,7 +17,8 @@ WE ATTEST THAT WE HAVEN'T USED ANY OTHER STUDENTS' WORK IN OUR ASSIGNMENT AND AB
 
 ## Architecture
 
-![sports_agentic_architecture (7)](https://github.com/user-attachments/assets/faf30537-cf32-4686-a71a-d7131ef70403)
+![image](https://github.com/user-attachments/assets/bfde8390-c7b0-4804-908c-846e3e955043)
+
 
 
 ## Key Technologies
