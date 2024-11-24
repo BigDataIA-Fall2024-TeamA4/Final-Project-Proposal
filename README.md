@@ -1,6 +1,6 @@
 # Final-Project-Proposal 
 
-# SportSphere : A Personalized Sports Companion
+# GamePlan : A Personalized Sports Companion
 
 ## Project Overview
 
