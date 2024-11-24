@@ -1,4 +1,6 @@
-# Final-Project-Proposal
+# Final-Project-Proposal 
+
+# SportSphere : A Personalized Sports Companion
 
 ## Project Overview
 
@@ -17,7 +19,14 @@ WE ATTEST THAT WE HAVEN'T USED ANY OTHER STUDENTS' WORK IN OUR ASSIGNMENT AND AB
 
 ## Architecture
 
+**Previous Archiecture :**
+
 ![image](https://github.com/user-attachments/assets/bfde8390-c7b0-4804-908c-846e3e955043)
+
+**Updated Architecture :**
+
+![image](https://github.com/user-attachments/assets/8ff0ec28-e026-48ce-b513-91037f7011a4)
+
 
 
 
@@ -25,20 +34,24 @@ WE ATTEST THAT WE HAVEN'T USED ANY OTHER STUDENTS' WORK IN OUR ASSIGNMENT AND AB
 
 | Technology   | Use                                                                 | Purpose/Notes                          |
 |--------------|---------------------------------------------------------------------|----------------------------------------|
-| FastAPI      | Orchestrates agents, provides APIs, and manages user authentication| Serves as the backend framework        |
-| LangChain    | Implements multi-agent coordination and RAG-based retrieval        | Facilitates intelligent workflows      |
+| FastAPI      | Orchestrates agents, provides APIs, and manages user authentication| Serves as the backend framework        |     
 | Streamlit    | Provides an interactive, user-friendly dashboard                   | Acts as the frontend framework         |
 | OpenAI API   | Generates vector embeddings for content and user preferences       | Enhances search and personalization    |
 | Pinecone     | Stores embeddings for real-time vector search                      | Powers efficient content retrieval     |
-| Amazon S3    | Stores raw data and backups                                        | Scalable cloud storage solution        |
-| Snowflake    | Manages structured data and enables efficient querying             | Cloud-based database for analytics     |
+| GCP          | Stores user data, and deploys the application on the cloud         | Scalable cloud storage solution        |
 | Airflow      | Automates ETL pipelines and schedules workflows                    | Ensures seamless orchestration         |
 | Docker       | Containers application and its dependencies for consistent deployment| Enables portability and scalability    |
 
 
 ## Documentation
 
-[![Codelabs](https://img.shields.io/badge/Codelabs-blue?style=for-the-badge)](https://codelabs-preview.appspot.com/?file_id=1U6saEDp86R-1dxdUcGf5aLIEdRWdaiPcR5GXznLzBqA/edit?tab=t.0#5)
+**Previous :**
+
+[![Codelabs](https://img.shields.io/badge/Codelabs-red?style=for-the-badge)](https://codelabs-preview.appspot.com/?file_id=1U6saEDp86R-1dxdUcGf5aLIEdRWdaiPcR5GXznLzBqA/edit?tab=t.0#5)
+
+**Updated**
+
+[![Codelabs](https://img.shields.io/badge/Codelabs-green?style=for-the-badge)](https://codelabs-preview.appspot.com/?file_id=1GnJqs0BuYVX51OoRzOuYXHEwCqs9A0O-afnuk568qOs/edit?tab=t.0#0)
 
 ## Task Distribution
 
